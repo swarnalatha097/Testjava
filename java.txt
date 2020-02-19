@@ -1,1 +1,2 @@
 java is a platform
+java is independent language
